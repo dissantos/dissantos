@@ -42,5 +42,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Diego Santos Gonçalves](https://img.shields.io/badge/-diego_santos_goncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/diego-santos-goncalves-7a8b9418b/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:disantosg18@gmail.com)](mailto:disantosg18@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-disantosg18@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:disantosg18@gmail.com)](mailto:disantosg18@gmail.com)
 [![GitHub dissantos]( https://img.shields.io/github/followers/dissantos?label=follow&style=social)](github.com/dissantos)
